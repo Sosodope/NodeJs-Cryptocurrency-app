@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-cryptocurrency-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chalk": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sosodope/NodeJs-Cryptocurrency-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sosodope/NodeJs-Cryptocurrency-app/issues"
+  },
+  "homepage": "https://github.com/Sosodope/NodeJs-Cryptocurrency-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
